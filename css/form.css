@@ -1,0 +1,13 @@
+body {
+
+    background-image: url("../img/fundo_formulario.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.formulario{
+    background-color: rgba(177, 95, 84, 0.747);
+    margin-left: -190px;
+    border-radius: 5px;
+}
